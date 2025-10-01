@@ -1,0 +1,14 @@
+C:\Users\CAMPUSFP\source\repos\Ejercicio_7.2\bin\Debug\net8.0\Ejercicio_7.2.exe
+C:\Users\CAMPUSFP\source\repos\Ejercicio_7.2\bin\Debug\net8.0\Ejercicio_7.2.deps.json
+C:\Users\CAMPUSFP\source\repos\Ejercicio_7.2\bin\Debug\net8.0\Ejercicio_7.2.runtimeconfig.json
+C:\Users\CAMPUSFP\source\repos\Ejercicio_7.2\bin\Debug\net8.0\Ejercicio_7.2.dll
+C:\Users\CAMPUSFP\source\repos\Ejercicio_7.2\bin\Debug\net8.0\Ejercicio_7.2.pdb
+C:\Users\CAMPUSFP\source\repos\Ejercicio_7.2\obj\Debug\net8.0\Ejercicio_7.2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\CAMPUSFP\source\repos\Ejercicio_7.2\obj\Debug\net8.0\Ejercicio_7.2.AssemblyInfoInputs.cache
+C:\Users\CAMPUSFP\source\repos\Ejercicio_7.2\obj\Debug\net8.0\Ejercicio_7.2.AssemblyInfo.cs
+C:\Users\CAMPUSFP\source\repos\Ejercicio_7.2\obj\Debug\net8.0\Ejercicio_7.2.csproj.CoreCompileInputs.cache
+C:\Users\CAMPUSFP\source\repos\Ejercicio_7.2\obj\Debug\net8.0\Ejercicio_7.2.dll
+C:\Users\CAMPUSFP\source\repos\Ejercicio_7.2\obj\Debug\net8.0\refint\Ejercicio_7.2.dll
+C:\Users\CAMPUSFP\source\repos\Ejercicio_7.2\obj\Debug\net8.0\Ejercicio_7.2.pdb
+C:\Users\CAMPUSFP\source\repos\Ejercicio_7.2\obj\Debug\net8.0\Ejercicio_7.2.genruntimeconfig.cache
+C:\Users\CAMPUSFP\source\repos\Ejercicio_7.2\obj\Debug\net8.0\ref\Ejercicio_7.2.dll
